@@ -1,0 +1,8 @@
+col0	month
+col1	Q(t)
+col2	Mean Q(t)
+col3	Standard deviation of Q(t)
+col4	P(t)
+col5	Mean of P(t)
+col6	Standard deviation of P(t)
+col7	T : T is number of nonth that devided to 12 
